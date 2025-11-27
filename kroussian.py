@@ -1,2 +1,2 @@
-kros = 'with almond'
+kros = 'with berry'
 print(kros)
