@@ -1,2 +1,2 @@
-kros = 'with berry'
+kros = 'with empty'
 print(kros)
